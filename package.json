@@ -1,0 +1,23 @@
+{
+  "name": "cypress-longpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "./node_modules/.bin/cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenatoArvelos21/cypress-longpress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RenatoArvelos21/cypress-longpress/issues"
+  },
+  "homepage": "https://github.com/RenatoArvelos21/cypress-longpress#readme"
+}
